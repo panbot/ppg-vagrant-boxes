@@ -1,0 +1,7 @@
+This is ubuntu/trusty64 with new header and VBoxLinuxAdditions installed.
+To use this,
+
+1. copy the VBoxLinuxAdditions package matching the version of your installed virtualbox to provision/
+2. vagrant up
+3. vagrant package
+
